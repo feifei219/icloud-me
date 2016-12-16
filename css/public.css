@@ -1,0 +1,14 @@
+body,ul,li,ol,li,dd,dt,input,p,h1,h2,h3,h4,h5,h6,figure{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+body{
+    font-family:"微软雅黑";
+}
+img{
+    border:0;
+}
+a{
+    text-decoration: none;
+}
